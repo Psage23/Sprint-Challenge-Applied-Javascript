@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+DOM is the Document Object Model, it is a tree-like structure where programmers can use JavaScript to build elements onto a page, not using HTML or CSS.
+
 2. What is an event?
+
+Event is user interaction on a webpage like click,scroll and moving the mouse.
 
 3. What is an event listener?
 
+Specific elements that listen for specific events to know when to fire a callback when the specific event occurs is event listener.
+
 4. Why would we convert a NodeList into an Array?
 
+To apply methods like .forEach.
+
 5. What is a component?
+
+Components are reusable pieces of code used to build elements with the same functions and styling.
 
 ### Git Set up
 
