@@ -38,8 +38,10 @@ function stretch(){
   rightBtn.classList.add('right-button');
 
   pic1.src = './assets/carousel/mountains.jpeg';
+  pic2.src = './assets/carousel/computer.jpeg';
+  pic3.src = './assets/carousel/trees.jpeg';
+  pic4.src = './assets/carousel/turntable.jpeg';
 
-  
   return carousel;
 }
 
